@@ -1,4 +1,4 @@
-package config
+package my_go_module
 
 type Config struct {
 	Host string `json:"host"`
